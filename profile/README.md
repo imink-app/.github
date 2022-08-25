@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🏗️ Upcoming imink for Splatoon 3 plans. 
+
 <!--
 
 **Here are some ideas to get you started:**
