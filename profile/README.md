@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Looking for imink for Splatoon 2? [Please check here](https://github.com/JoneWang/imink).
+
 🚧 Upcoming imink for Splatoon 3 plans. 
 
 <!--
